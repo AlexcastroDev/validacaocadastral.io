@@ -1,0 +1,15 @@
+{
+    "name": "admin/validacaocadastral.io",
+    "description": "Skeleton validacaocadastral",
+    "authors": [
+        {
+            "name": "h1code",
+            "email": "alexandro@h1code.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "require": {
+        "h1code/validacaocadastral.packagist.org": "^1.0"
+    }
+}
